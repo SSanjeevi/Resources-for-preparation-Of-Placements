@@ -14,13 +14,13 @@
 
 - [Programming in C++](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
 
-- [ARRAYS](https://www.youtube.com/playlist?list=PLDA2q3s0-n17lGt6HyexWP0zR1yISc1km)
+- [ARRAYS](https://www.youtube.com/playlist?list=PLDdcY4olLQk3zG-972eMoDJHLIz3FiGA6)
 
-- [STRING](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6ThrYKCzgEpmaS_XWDGHjx)
+- [STRING](https://www.youtube.com/playlist?list=PLDdcY4olLQk0A0o2U0fOUjmO2v3X6GOxX)
 
 - [BINARY SEARCH](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
 
-- Dynamic Programming
+- [Dynamic Programming](https://whimsical.com/dp-sheet-by-love-babbar-EELKgSMWg51ypLyfn9mTjr)
 
   - [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
   - [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
@@ -114,6 +114,16 @@
 - SYSTEM DESIGN
   - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
   - [SudoCode](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
+  - [Whatsapp System Desgin](https://www.youtube.com/watch?v=LsH-t75P544)
+  - [Instagram Design](https://www.youtube.com/watch?v=QmX2NPkJTKg)
+  - [TikTok Architechture Design](https://www.youtube.com/watch?v=07BVxmVFDGY)
+  - [Tinder System Design](https://www.youtube.com/watch?v=tndzLznxq40)
+  - [System Design of Amazon, Flipkart like E-commerce](https://www.youtube.com/watch?v=2BWr0fsDSs0)
+  - [Mock Low Level Design Interview](https://www.youtube.com/watch?v=J-4UQ_WpMtc)
+  - [High Level Design vs Low Level Design](https://www.youtube.com/watch?v=H703ErIrby8)
+  - [low Level Design of a Fitness App](https://www.youtube.com/watch?v=7-A5NgGrJqY)
+  - [Mock Low Level Design Interview](https://www.youtube.com/watch?v=cqxowa0JbpI)
+
 
 - LOW LEVEL DESIGN
   - [Soumyajit bhattacharya](https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)
